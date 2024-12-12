@@ -1,11 +1,7 @@
-﻿using BufferedEvents.Impacts;
-using CG.Game.Player;
-using CG.Space;
-using Gameplay.Damage;
+﻿using CG.Game.Player;
 using Gameplay.Enhancements;
 using HarmonyLib;
 using System.Collections.Generic;
-using UnityEngine;
 
 namespace VoidRumble
 {
